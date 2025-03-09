@@ -1,0 +1,8 @@
+name: TimeIsMoney
+version: 0.0.1
+main: spigot.plugin.TimeIsMoney
+api-version: 1.21.4
+commands:
+  timeismoney:
+    description: Controlla e prelevai tuoi guadagni.
+    usage: /timeismoney

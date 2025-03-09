@@ -1,0 +1,14 @@
+#Don't touch the database properties or it may not work
+database:
+  url: jdbc:h2:./plugins/TimeIsMoney/database;AUTO_SERVER=true;
+  driver: org.h2.Driver
+  user: admin
+  password: admin
+
+#Supported languages: it, en
+language: it
+
+#Set the money earned per minute of play on the server
+earnings:
+  money:
+    minute: 10

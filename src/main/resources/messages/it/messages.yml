@@ -1,0 +1,5 @@
+new-player: "Ciao §a%s, §bbenvenuto nel server§r, adesso hai §a%s §rmonete"
+welcome-back-player: "§bBentornato §a%s§r, nel tuo portafoglio hai §a%s"
+player-saving-data-error: "§cC'è stato un problema col salvataggio dei dati!"
+withdrawal: "Hai accumulato §a%s §rmonete, ora hai: §a%s"
+withdrawal-time-not-reached: "§cDevi aspettare almeno 1 minuto dall'ultima richiesta!"

@@ -1,0 +1,5 @@
+new-player: "Hi §a%s, §bwelcome to the server§r, you have now §a%s §rcoin"
+welcome-back-player: "§bWelcome back §a%s§r, you have a balance of §a%s"
+player-saving-data-error: "§cThere was a problem saving your data!"
+withdrawal: "You have earned §a%s §rcoins, now you have: §a%s"
+withdrawal-time-not-reached: "§cYou must wait at least 1 minute from the last request!"
